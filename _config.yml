@@ -1,29 +1,29 @@
 # Basic
-title: 高孔威
+title: 九月
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: gkw3
 # 头像里面的描述
-avatarDesc: JAVA / WEB前端 / 文学 / 音乐
-url: "https://gkw3.github.io"
+avatarDesc: Java / Web前端 / 文学 /音乐
+url: "http://gkw3.github.io"
 
 # Comment
 comment:
-    # disqus: leopard
+    #disqus: leopard
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 银河的河 
+    weibo: vingsmart 
     github: gkw3
     # twitter: 
     mail: 879524485@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-# baidu:
-#     id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu:
+    id: 9d3306685b05a2b2b394d6ae1e76bab1  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
@@ -66,5 +66,3 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
