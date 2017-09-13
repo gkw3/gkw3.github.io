@@ -10,8 +10,8 @@ url: "http://gkw3.github.io"
 
 # Comment
 comment:
-    #disqus: gaokw
-    uyan: 2144432  # 有言id,登录有言官网申请
+    disqus: leopard
+    #uyan: 2144432  # 有言id,登录有言官网申请
 
 # Social
 social:
