@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mac知识整合
-date: 2016-11-16 
-tags: iOS    
+date: 2017-09-13
+tags: mac    
 ---
 
 ### .DS_Store 文件是什么？
